@@ -50,7 +50,6 @@ h3 {
 
 .credit {
   text-align:center;
-  background-color: #878E98;
   margin-bottom:0px;
   padding:5%;
 }
@@ -62,9 +61,11 @@ td {
 
 .main-info{
   text-align: center;
-  background-color: #400000;
+  background-color: white;
   padding-top: 100px;
-  color:white;
+  color: black;
+  border: 1px solid black;
+  margin: 5%;
 }
 
 .programmes{
@@ -89,9 +90,9 @@ td {
 }
 
 .footer-container{
-  background-color: #400000;
+  background-color:#C2BDBD;
   padding-top: 3em;
-  color:#878E98;
+  color:black;
 }
 
 .footer {
@@ -112,7 +113,7 @@ td {
 }
 
 .copyright{
-  color: #878E9D;
+  color: #45484D;
   padding: 0.5em;
   font-size: 0.9em;
 }
@@ -120,10 +121,11 @@ td {
 @media (min-width: 750px){
   .main-info{
     font-size: 1.6em;
+
   }
 
   .container{
-    padding:5% 20%;
+    padding:1% 20%;
   }
 
   table{
