@@ -18,7 +18,7 @@ h3 {
 
 .menu {
   position: fixed;
-  background-color:#171B1E;
+  background-color:#858A8D;
   z-index: 1;
   top: 0px;
   width:100%;
@@ -39,7 +39,7 @@ h3 {
   text-transform:uppercase;
   float:center;
   padding:25px;
-  color:white;
+  color:black;
   font-family: 'Antic';
 }
 
